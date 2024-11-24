@@ -1,5 +1,5 @@
 let nome = "Batman"
-let xp = 5820
+let xp = 1000000
 if(xp < 1000)
     console.log("O herói " + nome +  " é Ferro")
     else if(xp > 1000 && xp <= 2000)
